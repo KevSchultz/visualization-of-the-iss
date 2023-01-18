@@ -2,7 +2,7 @@
 
 This is a collaborative project aimed to visualize the International Space Station module by module.
 
-## [Latest version](https://alexanderkhodanovich.github.io/visualization-of-the-iss/src/index.html)
+## [Latest version](https://kevschultz.github.io/visualization-of-the-iss/src/index.html)
 
 ## Artifacts
 [Data Source](https://en.wikipedia.org/wiki/Assembly_of_the_International_Space_Station)
